@@ -8,12 +8,9 @@ Pesquisar, instalar, configurar e utilizar um framework front-end, compreendendo
 ## 📚 Frameworks Disponíveis  
 
 1. Angular  
-2. Qwik  
-3. Solid.js  
-4. Astro  
-5. Svelte  
-6. Vue.js  
-7. React  
+2. Vue.js  
+3. React  
+4. Svelte  
 
 ---
 
